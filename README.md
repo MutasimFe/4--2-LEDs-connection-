@@ -45,7 +45,7 @@
     ![resistors](https://user-images.githubusercontent.com/85455361/124198166-cb16eb00-dad8-11eb-8bbf-87a813d9f934.jpg)
 
 
-7. Capacitor x2:
+7. Capacitors x2:
 
     in diffrent values. 
     
