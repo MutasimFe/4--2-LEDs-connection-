@@ -16,6 +16,8 @@
 
 ## Explan the video:
 
+## Code: 
+
 # Why LEDs Are In Parallel Connection:
 
 # Notes: 
