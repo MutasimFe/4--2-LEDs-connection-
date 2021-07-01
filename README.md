@@ -35,7 +35,6 @@
 
 ![LEDs Connections](https://user-images.githubusercontent.com/85455361/124195286-cbac8300-dad2-11eb-80e8-903bf3fda104.png)
 
-
 # Video:
 
 ## Explain the video:
@@ -48,8 +47,10 @@
 
 # Suggested Ideas: 
 
-## Using LDR 
+## Using LDR Sensor:
+Using LDR sensor to sense the light in the environment and control the tense of light. Of the tense of light is low the LEDs do not glow in the full potential for power saving.
 
-## 
+![LDR](https://user-images.githubusercontent.com/85455361/124196724-a79e7100-dad5-11eb-84b4-7381540387ad.jpg)
+
 
 
