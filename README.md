@@ -68,7 +68,8 @@
 
 # Video:
 
-## Explain the video:
+
+
 
 ## Code: 
 
