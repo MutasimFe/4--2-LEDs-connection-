@@ -60,6 +60,14 @@
 ![circuit (5)](https://user-images.githubusercontent.com/85455361/124195712-aa986200-dad3-11eb-9e54-8f92b90a18ff.png)
 
 
+### Note: 
+  I connected the Arduino pins to the base of transistors to make the transistor as a switch using the PWM concept in the purpose of increase the lifetime of the LEDs since PWM    is a square periodic wave that turns on/off the transistor in a very small time where the human eyes can not realize that. 
+
+  The below figure shows the concept of PWM wave and how to control it by changing the duty cycle.
+
+  ![Arduino-PWM-2](https://user-images.githubusercontent.com/85455361/124306295-df0d2c00-db6e-11eb-8442-7f174c9e2307.png)
+
+
 ## (2) Tinkercad:
 
    note that: The connection is simpler than this in realistic but I use it just for a good view.
