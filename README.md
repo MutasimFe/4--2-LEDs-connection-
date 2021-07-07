@@ -115,17 +115,8 @@ https://user-images.githubusercontent.com/85455361/124201060-aa9e5f00-dadf-11eb-
         pinMode(LED2B, OUTPUT);
         pinMode(LED2G, OUTPUT);
   ```   
-  3. Define pins to be outputs since i am only using LEDs:
 
-``` c++
-        pinMode(LED1R, OUTPUT);
-        pinMode(LED1B, OUTPUT);
-        pinMode(LED1G, OUTPUT);
-        pinMode(LED2R, OUTPUT);
-        pinMode(LED2B, OUTPUT);
-        pinMode(LED2G, OUTPUT);
-  ```   
-  4. the main body of code; control the LEDs by potentiometer 
+  3. the main body of code; control the LEDs by potentiometer 
   
 ``` c++
         val1= analogRead(pot1);
